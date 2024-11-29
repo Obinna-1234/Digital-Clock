@@ -60,7 +60,7 @@ function updateClock() {
 
 // Initialize the clock.
 updateClock();
-
+'''
 # Key Breakdown:
 
 - **Accessing DOM Elements**:  
