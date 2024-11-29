@@ -6,7 +6,8 @@
 ---
 
 ## 📸 Preview  
-![Digital Clock Preview](https://via.placeholder.com/800x400.png?text=Digital+Clock+Preview)  
+![Digital Clock](https://github.com/Obinna-1234/Digital-Clock/blob/main/clock.png)
+
 *Clean, minimalistic, and always on time.*
 
 ---
