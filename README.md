@@ -60,7 +60,8 @@ function updateClock() {
 
 // Initialize the clock.
 updateClock();
-'''
+```
+
 # Key Breakdown:
 
 - **Accessing DOM Elements**:  
@@ -89,15 +90,24 @@ updateClock();
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/Obinna-1234/Digital-Clock.git
+   ```
 
 2. **Navigate to the Folder and Open the App**:  
    ```bash
    cd Digital-Clock
+   ```
 
-3 **Open the App**
+3. **Open the App**  
 
 Open the `index.html` file in your browser, or deploy it to your favorite hosting platform.
 
-🙏 Credits:
-Developed with 💻 and ❤️ by Obinna-1234.
+---
+
+## 🙏 Credits:
+
+Developed with 💻 and ❤️ by Obinna-1234.  
 Have feedback or ideas? Feel free to open an issue.
+
+---
+
+✨ Happy timekeeping! 🕰️
